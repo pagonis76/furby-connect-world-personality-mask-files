@@ -15,3 +15,6 @@ the furby connect actually works off of BLE (bluetooth low energy) and people ha
 
 # there is no way to trigger the minigame in the furby connect world without a custom mod
 yes, the minigame is compiled, it's in version 1.2.2 of the furby connect world app, it just can't be triggered... or can it?
+
+# is it possibly possible to do this stuff? (this is me being silly with my grammer btw)
+probably yes AND no.
