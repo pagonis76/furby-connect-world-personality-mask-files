@@ -1,6 +1,6 @@
 # furby connect world personality mask files
 these are personality mask transitions found in a decompile of the Furby connect world
-this also has a link to all the compiled personality files too, they have color palletes, sprites, motor movements, audio, sequences, actions, everything, and it can be found at this link: https://github.com/Furby-ReConnect/Furby/tree/master/Furby-Files/Furby-NAND/Personalities
+this also has a link to all the compiled personality files too, they have color palletes, sprites, motor movements, audio, sequences, actions, everything, and it can be found [here](https://github.com/Furby-ReConnect/Furby/tree/master/Furby-Files/Furby-NAND/Personalities)
 
 # unused voicelines in the toy actually line up perfectly with these newly found files!
 a set throwing/catching voicelines line up perfectly with the "ballminigame" file, and the personality dreams line up perfectly with the mask transitions
