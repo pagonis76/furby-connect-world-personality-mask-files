@@ -18,3 +18,7 @@ yes, the minigame is compiled, it's in version 1.2.2 of the furby connect world 
 
 # is it possibly possible to do this stuff? (this is me being silly with my grammer btw)
 probably yes AND no.
+
+# what have we found so far?
+we've found what seems to be Hex codes in the format the furby connect usually reads, you can find these codes in the "furbymasks" file, then put the file into a hex editor.
+i've found out the personalities on the english furby connect can be triggered with a russian sleep mask (the russian mask is wonky and has some sort of resister difference, Kawjer (on youtube) and a russian person (the person who has the russian furby and stuff) are currently documenting this and trying to find ways to trigger the personalities, I'm helping them as well.. well, trying to.
