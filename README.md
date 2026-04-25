@@ -11,7 +11,7 @@ a set throwing/catching voicelines line up perfectly with the "ballminigame" fil
 
 # there is no known way to trigger these personalities... or is there?
 there are codes that seem to be hex codes hidden in the mask files, what do they do? how do they work? we have no clue... YET.
-the furby connect actually works off of BLE (bluetooth low energy) and people have figured out how to reverse engineer the furby connect, doing so, they've found the way to change varibles (mood, wellness, etc, about everything in the debug screen) the way to change them is to send certain hex codes to the furby (through NRF connect or a modded version of fluffd/bluefluff or even a modded version of furBLE). these hex codes in those files may have just unlocked something... something HUGE.
+the furby connect actually works off of BLE (bluetooth low energy) and people have figured out how to reverse engineer the furby connect, doing so, they've found the way to change varibles (mood, wellness, etc, about everything in the debug screen) the way to change them is to send certain hex codes to the furby (through NRF connect or a modded version of fluffd/bluefluff or even a modded version of furBLE). these hex codes in those files may have just unlocked something... something HUGE. to look at these hex codes, pretty much in all the files, you can look at the hex codes [here](https://hexed.it/), just upload the files in it and you'll see every hex code
 
 # there is no way to trigger the minigame in the furby connect world without a custom mod
 yes, the minigame is compiled, it's in version 1.2.2 of the furby connect world app, it just can't be triggered... or can it?
